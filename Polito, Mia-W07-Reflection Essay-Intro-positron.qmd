@@ -101,4 +101,9 @@ For the most part AI tools like GitHub Copilot has been helpful. However, like a
 
 # Publish the report to GitHub Pages
 
-**URL:**
+## GitHub Pages Link
+
+The published report is available at:
+
+https://miap2324.github.io/Intro-Positron/Polito,%20Mia-W07-Reflection%20Essay-Intro-positron.html
+
