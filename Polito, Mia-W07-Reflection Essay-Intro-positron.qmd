@@ -105,5 +105,5 @@ For the most part AI tools like GitHub Copilot has been helpful. However, like a
 
 The published report is available at:
 
-https://miap2324.github.io/Intro-Positron/Polito,%20Mia-W07-Reflection%20Essay-Intro-positron.html
+https://miap2324.github.io/Intro-Positron/
 
