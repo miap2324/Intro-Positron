@@ -25,7 +25,7 @@ execute:
 Reflect on how Position works with RStudio and the capabilities a user has when utilizing both. The reflection covers topics on installing Positron, working with AI, and publishing.
 :::
 
-# Becoming Familiar with Positron 
+# Becoming Familiar with Positron
 
 ## **Prompt:** Download and Install Positron. As you watch the videos in Step 1 and Step 3, follow the activities in the video and be familiar with Positron.
 
@@ -105,5 +105,4 @@ For the most part AI tools like GitHub Copilot has been helpful. However, like a
 
 The published report is available at:
 
-https://miap2324.github.io/Intro-Positron/
-
+<https://miap2324.github.io/Intro-Positron/>
